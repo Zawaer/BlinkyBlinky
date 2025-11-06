@@ -1,2 +1,2 @@
 # BlinkyBlinky
-This is a simple LED blinker PCB.
+Simple LED blinker PCB shaped like an epic plane
